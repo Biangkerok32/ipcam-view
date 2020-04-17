@@ -1,6 +1,7 @@
 package com.github.niqdev.mjpeg;
 
-import androidx.annotation.NonNull;
+//import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.util.Log;
 
